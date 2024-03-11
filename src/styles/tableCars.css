@@ -1,0 +1,39 @@
+.tableCars{
+   
+background: rgb(56, 53, 53);
+width: 60vw;
+min-height: 80vh;
+margin-left: 20vw;
+margin-top: 20vh;
+}
+
+.tableCars > p{
+
+    background: rgb(205, 25, 25);
+    height: 50px;
+    text-align: center;
+}
+
+.card{
+    margin-left: 10vw;
+    margin-top: 20px;
+    width: 40vw;
+    height: 10vh;
+    align-items: center;
+    border: 3px solid gray;
+    border-radius: 8px;
+    background: rgb(24, 24, 24);
+    color: bisque;
+}
+
+.titreStage{
+     font-size: 1.3em;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.text{
+
+    margin-left: 5px;
+    margin-bottom: 5pxpx;
+}

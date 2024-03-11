@@ -1,0 +1,30 @@
+ 
+
+.modeles{
+    margin-bottom: 50px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    color: blue;
+}
+
+.items-modeles{
+    display: flex;
+    
+   font-size: 1.3em;
+
+}
+
+.parentModele{
+
+    display: flex;
+}
+a{
+
+    text-decoration: none;
+    color: black;
+}
+
+.li-voitures{
+
+    color: blue;
+}
